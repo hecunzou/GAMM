@@ -1,6 +1,6 @@
 # the feature profile of tumor-associated macrophage (TAM) from multiple scRNA-seq data
 
-Code associated with "The TAM cell-population related non-coding feature drive the progression of gliomas"
+Code associated with "A TAM cell-population related non-coding marker drive the progression of gliomas"
 
 ## Preparation
 
