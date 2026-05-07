@@ -1,6 +1,6 @@
-# the feature profile of glioma-associated macrophages/microglia (GAMM) from multiple scRNA-seq data
+# the feature profile of tumor-associated macrophage (TAM) from multiple scRNA-seq data
 
-Code associated with "The GAMM cell-population related non-coding feature drive the progression of gliomas"
+Code associated with "The TAM cell-population related non-coding feature drive the progression of gliomas"
 
 ## Preparation
 
